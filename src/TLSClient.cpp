@@ -100,9 +100,7 @@ void TLSClient::limit (int max)
 // std::cout, labelled with 'c: ...'.
 void TLSClient::debug (int level)
 {
-  if (level)
-    _debug = true;
-
+  TCPClient::debug(level);
   gnutls_global_set_log_function (gnutls_log_function); // All
   gnutls_global_set_log_level (level); // All
 }

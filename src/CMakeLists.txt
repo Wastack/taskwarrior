@@ -13,8 +13,10 @@ add_library (task CLI2.cpp CLI2.h
                   Filter.cpp Filter.h
                   Hooks.cpp Hooks.h
                   Lexer.cpp Lexer.h
+                  SimpleClient.cpp SimpleClient.h
                   TDB2.cpp TDB2.h
                   Task.cpp Task.h
+                  TCPClient.cpp TCPClient.h
                   TLSClient.cpp TLSClient.h
                   Variant.cpp Variant.h
                   ViewTask.cpp ViewTask.h

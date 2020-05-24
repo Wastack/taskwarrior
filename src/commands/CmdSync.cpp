@@ -35,6 +35,7 @@
 #include <shared.h>
 #include <format.h>
 #include <util.h>
+#include <TCPClient.h>
 
 ////////////////////////////////////////////////////////////////////////////////
 CmdSync::CmdSync ()
@@ -84,43 +85,48 @@ int CmdSync::execute (std::string& output)
       connection.rfind (':') == std::string::npos)
     throw std::string ("Taskserver is not configured.");
 
-  // Obtain credentials.
-  std::string credentials_string = Context::getContext ().config.get ("taskd.credentials");
-  if (credentials_string == "")
-    throw std::string ("Taskserver credentials malformed.");
-
-  auto credentials = split (credentials_string, '/');
-  if (credentials.size () != 3)
-    throw std::string ("Taskserver credentials malformed.");
-
-  // This was a Boolean value in 2.3.0, and is a tri-state since 2.4.0.
-  std::string trust_value = Context::getContext ().config.get ("taskd.trust");
-  if (trust_value != "strict" &&
-      trust_value != "ignore hostname" &&
-      trust_value != "allow all")
-    throw std::string ("The 'taskd.trust' settings may now only contain a value of 'strict', 'ignore hostname' or 'allow all'.");
-
+  std::vector<std::string> credentials;
   enum TLSClient::trust_level trust = TLSClient::strict;
-  if (trust_value  == "allow all")
-    trust = TLSClient::allow_all;
-  else if (trust_value == "ignore hostname")
-    trust = TLSClient::ignore_hostname;
+  File ca, certificate, key;
+  if( !Context::getContext().config.getBoolean("tls_disabled") )
+  {
+    // Obtain credentials.
+    std::string credentials_string = Context::getContext ().config.get ("taskd.credentials");
+    if (credentials_string == "")
+      throw std::string ("Taskserver credentials malformed.");
 
-  // CA must exist, if provided.
-  File ca (Context::getContext ().config.get ("taskd.ca"));
-  if (ca._data != "" && ! ca.exists ())
-    throw std::string ("CA certificate not found.");
+    credentials = split (credentials_string, '/');
+    if (credentials.size () != 3)
+      throw std::string ("Taskserver credentials malformed.");
 
-  if (trust == TLSClient::allow_all && ca._data != "")
-    throw std::string ("You should either provide a CA certificate or override verification, but not both.");
+    // This was a Boolean value in 2.3.0, and is a tri-state since 2.4.0.
+    std::string trust_value = Context::getContext ().config.get ("taskd.trust");
+    if (trust_value != "strict" &&
+        trust_value != "ignore hostname" &&
+        trust_value != "allow all")
+      throw std::string ("The 'taskd.trust' settings may now only contain a value of 'strict', 'ignore hostname' or 'allow all'.");
 
-  File certificate (Context::getContext ().config.get ("taskd.certificate"));
-  if (! certificate.exists ())
-    throw std::string ("Taskserver certificate missing.");
+    if (trust_value  == "allow all")
+      trust = TLSClient::allow_all;
+    else if (trust_value == "ignore hostname")
+      trust = TLSClient::ignore_hostname;
 
-  File key (Context::getContext ().config.get ("taskd.key"));
-  if (! key.exists ())
-    throw std::string ("Taskserver key missing.");
+    // CA must exist, if provided.
+    ca = Context::getContext ().config.get ("taskd.ca");
+    if (ca._data != "" && ! ca.exists ())
+      throw std::string ("CA certificate not found.");
+
+    if (trust == TLSClient::allow_all && ca._data != "")
+      throw std::string ("You should either provide a CA certificate or override verification, but not both.");
+
+    certificate = Context::getContext ().config.get ("taskd.certificate");
+    if (! certificate.exists ())
+      throw std::string ("Taskserver certificate missing.");
+
+    key = Context::getContext ().config.get ("taskd.key");
+    if (! key.exists ())
+      throw std::string ("Taskserver key missing.");
+  }
 
   // If this is a first-time initialization, send pending.data and
   // completed.data, but not backlog.data.
@@ -156,9 +162,12 @@ int CmdSync::execute (std::string& output)
   request.set ("client",   PACKAGE_STRING);
   request.set ("protocol", "v1");
   request.set ("type",     "sync");
-  request.set ("org",      credentials[0]);
-  request.set ("user",     credentials[1]);
-  request.set ("key",      credentials[2]);
+  if(!credentials.empty())
+  {
+    request.set ("org",      credentials[0]);
+    request.set ("user",     credentials[1]);
+    request.set ("key",      credentials[2]);
+  }
 
   // Tell the server that this is a full upload, allowing it to perhaps compact
   // its data.
@@ -362,18 +371,22 @@ bool CmdSync::send (
 
   try
   {
-    TLSClient client;
-    client.debug (Context::getContext ().config.getInteger ("debug.tls"));
+    std::unique_ptr<TCPClient> client = create_client(
+        Context::getContext().config.getBoolean("tls_disabled"));
+    client->debug (Context::getContext ().config.getInteger ("debug.tls"));
 
-    client.trust (trust);
-    client.ciphers (Context::getContext ().config.get ("taskd.ciphers"));
-    client.init (ca, certificate, key);
-    client.connect (server, port);
-    client.send (request.serialize () + '\n');
+    if(TLSClient* t_client = dynamic_cast<TLSClient*>(client.get()); t_client != nullptr)
+    {
+      t_client->trust (trust);
+      t_client->ciphers (Context::getContext ().config.get ("taskd.ciphers"));
+      t_client->init (ca, certificate, key);
+    }
+    client->connect (server, port);
+    client->send (request.serialize () + '\n');
 
     std::string incoming;
-    client.recv (incoming);
-    client.bye ();
+    client->recv (incoming);
+    client->bye ();
 
     response.parse (incoming);
     return true;

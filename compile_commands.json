@@ -1,0 +1,902 @@
+[
+{
+  "directory": "/home/wastack/sources/taskwarrior/src",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/lex_executable.dir/lex.cpp.o -c /home/wastack/sources/taskwarrior/src/lex.cpp",
+  "file": "/home/wastack/sources/taskwarrior/src/lex.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/src",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/task_executable.dir/main.cpp.o -c /home/wastack/sources/taskwarrior/src/main.cpp",
+  "file": "/home/wastack/sources/taskwarrior/src/main.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/src",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/task.dir/CLI2.cpp.o -c /home/wastack/sources/taskwarrior/src/CLI2.cpp",
+  "file": "/home/wastack/sources/taskwarrior/src/CLI2.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/src",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/task.dir/Context.cpp.o -c /home/wastack/sources/taskwarrior/src/Context.cpp",
+  "file": "/home/wastack/sources/taskwarrior/src/Context.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/src",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/task.dir/DOM.cpp.o -c /home/wastack/sources/taskwarrior/src/DOM.cpp",
+  "file": "/home/wastack/sources/taskwarrior/src/DOM.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/src",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/task.dir/Eval.cpp.o -c /home/wastack/sources/taskwarrior/src/Eval.cpp",
+  "file": "/home/wastack/sources/taskwarrior/src/Eval.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/src",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/task.dir/Filter.cpp.o -c /home/wastack/sources/taskwarrior/src/Filter.cpp",
+  "file": "/home/wastack/sources/taskwarrior/src/Filter.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/src",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/task.dir/Hooks.cpp.o -c /home/wastack/sources/taskwarrior/src/Hooks.cpp",
+  "file": "/home/wastack/sources/taskwarrior/src/Hooks.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/src",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/task.dir/Lexer.cpp.o -c /home/wastack/sources/taskwarrior/src/Lexer.cpp",
+  "file": "/home/wastack/sources/taskwarrior/src/Lexer.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/src",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/task.dir/SimpleClient.cpp.o -c /home/wastack/sources/taskwarrior/src/SimpleClient.cpp",
+  "file": "/home/wastack/sources/taskwarrior/src/SimpleClient.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/src",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/task.dir/TDB2.cpp.o -c /home/wastack/sources/taskwarrior/src/TDB2.cpp",
+  "file": "/home/wastack/sources/taskwarrior/src/TDB2.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/src",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/task.dir/Task.cpp.o -c /home/wastack/sources/taskwarrior/src/Task.cpp",
+  "file": "/home/wastack/sources/taskwarrior/src/Task.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/src",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/task.dir/TCPClient.cpp.o -c /home/wastack/sources/taskwarrior/src/TCPClient.cpp",
+  "file": "/home/wastack/sources/taskwarrior/src/TCPClient.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/src",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/task.dir/TLSClient.cpp.o -c /home/wastack/sources/taskwarrior/src/TLSClient.cpp",
+  "file": "/home/wastack/sources/taskwarrior/src/TLSClient.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/src",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/task.dir/Variant.cpp.o -c /home/wastack/sources/taskwarrior/src/Variant.cpp",
+  "file": "/home/wastack/sources/taskwarrior/src/Variant.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/src",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/task.dir/ViewTask.cpp.o -c /home/wastack/sources/taskwarrior/src/ViewTask.cpp",
+  "file": "/home/wastack/sources/taskwarrior/src/ViewTask.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/src",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/task.dir/dependency.cpp.o -c /home/wastack/sources/taskwarrior/src/dependency.cpp",
+  "file": "/home/wastack/sources/taskwarrior/src/dependency.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/src",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/task.dir/feedback.cpp.o -c /home/wastack/sources/taskwarrior/src/feedback.cpp",
+  "file": "/home/wastack/sources/taskwarrior/src/feedback.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/src",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/task.dir/legacy.cpp.o -c /home/wastack/sources/taskwarrior/src/legacy.cpp",
+  "file": "/home/wastack/sources/taskwarrior/src/legacy.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/src",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/task.dir/nag.cpp.o -c /home/wastack/sources/taskwarrior/src/nag.cpp",
+  "file": "/home/wastack/sources/taskwarrior/src/nag.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/src",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/task.dir/recur.cpp.o -c /home/wastack/sources/taskwarrior/src/recur.cpp",
+  "file": "/home/wastack/sources/taskwarrior/src/recur.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/src",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/task.dir/recur2.cpp.o -c /home/wastack/sources/taskwarrior/src/recur2.cpp",
+  "file": "/home/wastack/sources/taskwarrior/src/recur2.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/src",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/task.dir/rules.cpp.o -c /home/wastack/sources/taskwarrior/src/rules.cpp",
+  "file": "/home/wastack/sources/taskwarrior/src/rules.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/src",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/task.dir/sort.cpp.o -c /home/wastack/sources/taskwarrior/src/sort.cpp",
+  "file": "/home/wastack/sources/taskwarrior/src/sort.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/src",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/task.dir/util.cpp.o -c /home/wastack/sources/taskwarrior/src/util.cpp",
+  "file": "/home/wastack/sources/taskwarrior/src/util.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/src",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/calc_executable.dir/calc.cpp.o -c /home/wastack/sources/taskwarrior/src/calc.cpp",
+  "file": "/home/wastack/sources/taskwarrior/src/calc.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/src",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/libshared.dir/libshared/src/Color.cpp.o -c /home/wastack/sources/taskwarrior/src/libshared/src/Color.cpp",
+  "file": "/home/wastack/sources/taskwarrior/src/libshared/src/Color.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/src",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/libshared.dir/libshared/src/Configuration.cpp.o -c /home/wastack/sources/taskwarrior/src/libshared/src/Configuration.cpp",
+  "file": "/home/wastack/sources/taskwarrior/src/libshared/src/Configuration.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/src",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/libshared.dir/libshared/src/Datetime.cpp.o -c /home/wastack/sources/taskwarrior/src/libshared/src/Datetime.cpp",
+  "file": "/home/wastack/sources/taskwarrior/src/libshared/src/Datetime.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/src",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/libshared.dir/libshared/src/Duration.cpp.o -c /home/wastack/sources/taskwarrior/src/libshared/src/Duration.cpp",
+  "file": "/home/wastack/sources/taskwarrior/src/libshared/src/Duration.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/src",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/libshared.dir/libshared/src/FS.cpp.o -c /home/wastack/sources/taskwarrior/src/libshared/src/FS.cpp",
+  "file": "/home/wastack/sources/taskwarrior/src/libshared/src/FS.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/src",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/libshared.dir/libshared/src/JSON.cpp.o -c /home/wastack/sources/taskwarrior/src/libshared/src/JSON.cpp",
+  "file": "/home/wastack/sources/taskwarrior/src/libshared/src/JSON.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/src",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/libshared.dir/libshared/src/Msg.cpp.o -c /home/wastack/sources/taskwarrior/src/libshared/src/Msg.cpp",
+  "file": "/home/wastack/sources/taskwarrior/src/libshared/src/Msg.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/src",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/libshared.dir/libshared/src/Pig.cpp.o -c /home/wastack/sources/taskwarrior/src/libshared/src/Pig.cpp",
+  "file": "/home/wastack/sources/taskwarrior/src/libshared/src/Pig.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/src",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/libshared.dir/libshared/src/RX.cpp.o -c /home/wastack/sources/taskwarrior/src/libshared/src/RX.cpp",
+  "file": "/home/wastack/sources/taskwarrior/src/libshared/src/RX.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/src",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/libshared.dir/libshared/src/Table.cpp.o -c /home/wastack/sources/taskwarrior/src/libshared/src/Table.cpp",
+  "file": "/home/wastack/sources/taskwarrior/src/libshared/src/Table.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/src",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/libshared.dir/libshared/src/Timer.cpp.o -c /home/wastack/sources/taskwarrior/src/libshared/src/Timer.cpp",
+  "file": "/home/wastack/sources/taskwarrior/src/libshared/src/Timer.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/src",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/libshared.dir/libshared/src/format.cpp.o -c /home/wastack/sources/taskwarrior/src/libshared/src/format.cpp",
+  "file": "/home/wastack/sources/taskwarrior/src/libshared/src/format.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/src",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/libshared.dir/libshared/src/ip.cpp.o -c /home/wastack/sources/taskwarrior/src/libshared/src/ip.cpp",
+  "file": "/home/wastack/sources/taskwarrior/src/libshared/src/ip.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/src",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/libshared.dir/libshared/src/shared.cpp.o -c /home/wastack/sources/taskwarrior/src/libshared/src/shared.cpp",
+  "file": "/home/wastack/sources/taskwarrior/src/libshared/src/shared.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/src",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/libshared.dir/libshared/src/unicode.cpp.o -c /home/wastack/sources/taskwarrior/src/libshared/src/unicode.cpp",
+  "file": "/home/wastack/sources/taskwarrior/src/libshared/src/unicode.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/src",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/libshared.dir/libshared/src/utf8.cpp.o -c /home/wastack/sources/taskwarrior/src/libshared/src/utf8.cpp",
+  "file": "/home/wastack/sources/taskwarrior/src/libshared/src/utf8.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/src",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/libshared.dir/libshared/src/wcwidth6.cpp.o -c /home/wastack/sources/taskwarrior/src/libshared/src/wcwidth6.cpp",
+  "file": "/home/wastack/sources/taskwarrior/src/libshared/src/wcwidth6.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/src/commands",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/commands.dir/Command.cpp.o -c /home/wastack/sources/taskwarrior/src/commands/Command.cpp",
+  "file": "/home/wastack/sources/taskwarrior/src/commands/Command.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/src/commands",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/commands.dir/CmdAdd.cpp.o -c /home/wastack/sources/taskwarrior/src/commands/CmdAdd.cpp",
+  "file": "/home/wastack/sources/taskwarrior/src/commands/CmdAdd.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/src/commands",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/commands.dir/CmdAliases.cpp.o -c /home/wastack/sources/taskwarrior/src/commands/CmdAliases.cpp",
+  "file": "/home/wastack/sources/taskwarrior/src/commands/CmdAliases.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/src/commands",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/commands.dir/CmdAnnotate.cpp.o -c /home/wastack/sources/taskwarrior/src/commands/CmdAnnotate.cpp",
+  "file": "/home/wastack/sources/taskwarrior/src/commands/CmdAnnotate.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/src/commands",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/commands.dir/CmdAppend.cpp.o -c /home/wastack/sources/taskwarrior/src/commands/CmdAppend.cpp",
+  "file": "/home/wastack/sources/taskwarrior/src/commands/CmdAppend.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/src/commands",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/commands.dir/CmdAttributes.cpp.o -c /home/wastack/sources/taskwarrior/src/commands/CmdAttributes.cpp",
+  "file": "/home/wastack/sources/taskwarrior/src/commands/CmdAttributes.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/src/commands",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/commands.dir/CmdBurndown.cpp.o -c /home/wastack/sources/taskwarrior/src/commands/CmdBurndown.cpp",
+  "file": "/home/wastack/sources/taskwarrior/src/commands/CmdBurndown.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/src/commands",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/commands.dir/CmdCalc.cpp.o -c /home/wastack/sources/taskwarrior/src/commands/CmdCalc.cpp",
+  "file": "/home/wastack/sources/taskwarrior/src/commands/CmdCalc.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/src/commands",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/commands.dir/CmdCalendar.cpp.o -c /home/wastack/sources/taskwarrior/src/commands/CmdCalendar.cpp",
+  "file": "/home/wastack/sources/taskwarrior/src/commands/CmdCalendar.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/src/commands",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/commands.dir/CmdCommands.cpp.o -c /home/wastack/sources/taskwarrior/src/commands/CmdCommands.cpp",
+  "file": "/home/wastack/sources/taskwarrior/src/commands/CmdCommands.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/src/commands",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/commands.dir/CmdColor.cpp.o -c /home/wastack/sources/taskwarrior/src/commands/CmdColor.cpp",
+  "file": "/home/wastack/sources/taskwarrior/src/commands/CmdColor.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/src/commands",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/commands.dir/CmdColumns.cpp.o -c /home/wastack/sources/taskwarrior/src/commands/CmdColumns.cpp",
+  "file": "/home/wastack/sources/taskwarrior/src/commands/CmdColumns.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/src/commands",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/commands.dir/CmdConfig.cpp.o -c /home/wastack/sources/taskwarrior/src/commands/CmdConfig.cpp",
+  "file": "/home/wastack/sources/taskwarrior/src/commands/CmdConfig.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/src/commands",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/commands.dir/CmdContext.cpp.o -c /home/wastack/sources/taskwarrior/src/commands/CmdContext.cpp",
+  "file": "/home/wastack/sources/taskwarrior/src/commands/CmdContext.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/src/commands",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/commands.dir/CmdCount.cpp.o -c /home/wastack/sources/taskwarrior/src/commands/CmdCount.cpp",
+  "file": "/home/wastack/sources/taskwarrior/src/commands/CmdCount.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/src/commands",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/commands.dir/CmdCustom.cpp.o -c /home/wastack/sources/taskwarrior/src/commands/CmdCustom.cpp",
+  "file": "/home/wastack/sources/taskwarrior/src/commands/CmdCustom.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/src/commands",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/commands.dir/CmdDelete.cpp.o -c /home/wastack/sources/taskwarrior/src/commands/CmdDelete.cpp",
+  "file": "/home/wastack/sources/taskwarrior/src/commands/CmdDelete.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/src/commands",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/commands.dir/CmdDenotate.cpp.o -c /home/wastack/sources/taskwarrior/src/commands/CmdDenotate.cpp",
+  "file": "/home/wastack/sources/taskwarrior/src/commands/CmdDenotate.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/src/commands",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/commands.dir/CmdDiagnostics.cpp.o -c /home/wastack/sources/taskwarrior/src/commands/CmdDiagnostics.cpp",
+  "file": "/home/wastack/sources/taskwarrior/src/commands/CmdDiagnostics.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/src/commands",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/commands.dir/CmdDone.cpp.o -c /home/wastack/sources/taskwarrior/src/commands/CmdDone.cpp",
+  "file": "/home/wastack/sources/taskwarrior/src/commands/CmdDone.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/src/commands",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/commands.dir/CmdDuplicate.cpp.o -c /home/wastack/sources/taskwarrior/src/commands/CmdDuplicate.cpp",
+  "file": "/home/wastack/sources/taskwarrior/src/commands/CmdDuplicate.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/src/commands",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/commands.dir/CmdEdit.cpp.o -c /home/wastack/sources/taskwarrior/src/commands/CmdEdit.cpp",
+  "file": "/home/wastack/sources/taskwarrior/src/commands/CmdEdit.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/src/commands",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/commands.dir/CmdExec.cpp.o -c /home/wastack/sources/taskwarrior/src/commands/CmdExec.cpp",
+  "file": "/home/wastack/sources/taskwarrior/src/commands/CmdExec.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/src/commands",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/commands.dir/CmdExport.cpp.o -c /home/wastack/sources/taskwarrior/src/commands/CmdExport.cpp",
+  "file": "/home/wastack/sources/taskwarrior/src/commands/CmdExport.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/src/commands",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/commands.dir/CmdGet.cpp.o -c /home/wastack/sources/taskwarrior/src/commands/CmdGet.cpp",
+  "file": "/home/wastack/sources/taskwarrior/src/commands/CmdGet.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/src/commands",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/commands.dir/CmdHelp.cpp.o -c /home/wastack/sources/taskwarrior/src/commands/CmdHelp.cpp",
+  "file": "/home/wastack/sources/taskwarrior/src/commands/CmdHelp.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/src/commands",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/commands.dir/CmdHistory.cpp.o -c /home/wastack/sources/taskwarrior/src/commands/CmdHistory.cpp",
+  "file": "/home/wastack/sources/taskwarrior/src/commands/CmdHistory.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/src/commands",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/commands.dir/CmdIDs.cpp.o -c /home/wastack/sources/taskwarrior/src/commands/CmdIDs.cpp",
+  "file": "/home/wastack/sources/taskwarrior/src/commands/CmdIDs.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/src/commands",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/commands.dir/CmdImport.cpp.o -c /home/wastack/sources/taskwarrior/src/commands/CmdImport.cpp",
+  "file": "/home/wastack/sources/taskwarrior/src/commands/CmdImport.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/src/commands",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/commands.dir/CmdInfo.cpp.o -c /home/wastack/sources/taskwarrior/src/commands/CmdInfo.cpp",
+  "file": "/home/wastack/sources/taskwarrior/src/commands/CmdInfo.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/src/commands",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/commands.dir/CmdLog.cpp.o -c /home/wastack/sources/taskwarrior/src/commands/CmdLog.cpp",
+  "file": "/home/wastack/sources/taskwarrior/src/commands/CmdLog.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/src/commands",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/commands.dir/CmdLogo.cpp.o -c /home/wastack/sources/taskwarrior/src/commands/CmdLogo.cpp",
+  "file": "/home/wastack/sources/taskwarrior/src/commands/CmdLogo.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/src/commands",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/commands.dir/CmdModify.cpp.o -c /home/wastack/sources/taskwarrior/src/commands/CmdModify.cpp",
+  "file": "/home/wastack/sources/taskwarrior/src/commands/CmdModify.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/src/commands",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/commands.dir/CmdPrepend.cpp.o -c /home/wastack/sources/taskwarrior/src/commands/CmdPrepend.cpp",
+  "file": "/home/wastack/sources/taskwarrior/src/commands/CmdPrepend.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/src/commands",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/commands.dir/CmdProjects.cpp.o -c /home/wastack/sources/taskwarrior/src/commands/CmdProjects.cpp",
+  "file": "/home/wastack/sources/taskwarrior/src/commands/CmdProjects.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/src/commands",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/commands.dir/CmdPurge.cpp.o -c /home/wastack/sources/taskwarrior/src/commands/CmdPurge.cpp",
+  "file": "/home/wastack/sources/taskwarrior/src/commands/CmdPurge.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/src/commands",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/commands.dir/CmdReports.cpp.o -c /home/wastack/sources/taskwarrior/src/commands/CmdReports.cpp",
+  "file": "/home/wastack/sources/taskwarrior/src/commands/CmdReports.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/src/commands",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/commands.dir/CmdShow.cpp.o -c /home/wastack/sources/taskwarrior/src/commands/CmdShow.cpp",
+  "file": "/home/wastack/sources/taskwarrior/src/commands/CmdShow.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/src/commands",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/commands.dir/CmdStart.cpp.o -c /home/wastack/sources/taskwarrior/src/commands/CmdStart.cpp",
+  "file": "/home/wastack/sources/taskwarrior/src/commands/CmdStart.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/src/commands",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/commands.dir/CmdStats.cpp.o -c /home/wastack/sources/taskwarrior/src/commands/CmdStats.cpp",
+  "file": "/home/wastack/sources/taskwarrior/src/commands/CmdStats.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/src/commands",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/commands.dir/CmdStop.cpp.o -c /home/wastack/sources/taskwarrior/src/commands/CmdStop.cpp",
+  "file": "/home/wastack/sources/taskwarrior/src/commands/CmdStop.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/src/commands",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/commands.dir/CmdSummary.cpp.o -c /home/wastack/sources/taskwarrior/src/commands/CmdSummary.cpp",
+  "file": "/home/wastack/sources/taskwarrior/src/commands/CmdSummary.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/src/commands",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/commands.dir/CmdSync.cpp.o -c /home/wastack/sources/taskwarrior/src/commands/CmdSync.cpp",
+  "file": "/home/wastack/sources/taskwarrior/src/commands/CmdSync.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/src/commands",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/commands.dir/CmdTags.cpp.o -c /home/wastack/sources/taskwarrior/src/commands/CmdTags.cpp",
+  "file": "/home/wastack/sources/taskwarrior/src/commands/CmdTags.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/src/commands",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/commands.dir/CmdTimesheet.cpp.o -c /home/wastack/sources/taskwarrior/src/commands/CmdTimesheet.cpp",
+  "file": "/home/wastack/sources/taskwarrior/src/commands/CmdTimesheet.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/src/commands",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/commands.dir/CmdUDAs.cpp.o -c /home/wastack/sources/taskwarrior/src/commands/CmdUDAs.cpp",
+  "file": "/home/wastack/sources/taskwarrior/src/commands/CmdUDAs.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/src/commands",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/commands.dir/CmdUndo.cpp.o -c /home/wastack/sources/taskwarrior/src/commands/CmdUndo.cpp",
+  "file": "/home/wastack/sources/taskwarrior/src/commands/CmdUndo.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/src/commands",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/commands.dir/CmdUnique.cpp.o -c /home/wastack/sources/taskwarrior/src/commands/CmdUnique.cpp",
+  "file": "/home/wastack/sources/taskwarrior/src/commands/CmdUnique.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/src/commands",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/commands.dir/CmdUrgency.cpp.o -c /home/wastack/sources/taskwarrior/src/commands/CmdUrgency.cpp",
+  "file": "/home/wastack/sources/taskwarrior/src/commands/CmdUrgency.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/src/commands",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/commands.dir/CmdVersion.cpp.o -c /home/wastack/sources/taskwarrior/src/commands/CmdVersion.cpp",
+  "file": "/home/wastack/sources/taskwarrior/src/commands/CmdVersion.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/src/columns",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/columns.dir/Column.cpp.o -c /home/wastack/sources/taskwarrior/src/columns/Column.cpp",
+  "file": "/home/wastack/sources/taskwarrior/src/columns/Column.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/src/columns",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/columns.dir/ColDepends.cpp.o -c /home/wastack/sources/taskwarrior/src/columns/ColDepends.cpp",
+  "file": "/home/wastack/sources/taskwarrior/src/columns/ColDepends.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/src/columns",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/columns.dir/ColDescription.cpp.o -c /home/wastack/sources/taskwarrior/src/columns/ColDescription.cpp",
+  "file": "/home/wastack/sources/taskwarrior/src/columns/ColDescription.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/src/columns",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/columns.dir/ColDue.cpp.o -c /home/wastack/sources/taskwarrior/src/columns/ColDue.cpp",
+  "file": "/home/wastack/sources/taskwarrior/src/columns/ColDue.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/src/columns",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/columns.dir/ColEnd.cpp.o -c /home/wastack/sources/taskwarrior/src/columns/ColEnd.cpp",
+  "file": "/home/wastack/sources/taskwarrior/src/columns/ColEnd.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/src/columns",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/columns.dir/ColEntry.cpp.o -c /home/wastack/sources/taskwarrior/src/columns/ColEntry.cpp",
+  "file": "/home/wastack/sources/taskwarrior/src/columns/ColEntry.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/src/columns",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/columns.dir/ColID.cpp.o -c /home/wastack/sources/taskwarrior/src/columns/ColID.cpp",
+  "file": "/home/wastack/sources/taskwarrior/src/columns/ColID.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/src/columns",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/columns.dir/ColIMask.cpp.o -c /home/wastack/sources/taskwarrior/src/columns/ColIMask.cpp",
+  "file": "/home/wastack/sources/taskwarrior/src/columns/ColIMask.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/src/columns",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/columns.dir/ColLast.cpp.o -c /home/wastack/sources/taskwarrior/src/columns/ColLast.cpp",
+  "file": "/home/wastack/sources/taskwarrior/src/columns/ColLast.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/src/columns",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/columns.dir/ColMask.cpp.o -c /home/wastack/sources/taskwarrior/src/columns/ColMask.cpp",
+  "file": "/home/wastack/sources/taskwarrior/src/columns/ColMask.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/src/columns",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/columns.dir/ColModified.cpp.o -c /home/wastack/sources/taskwarrior/src/columns/ColModified.cpp",
+  "file": "/home/wastack/sources/taskwarrior/src/columns/ColModified.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/src/columns",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/columns.dir/ColParent.cpp.o -c /home/wastack/sources/taskwarrior/src/columns/ColParent.cpp",
+  "file": "/home/wastack/sources/taskwarrior/src/columns/ColParent.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/src/columns",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/columns.dir/ColProject.cpp.o -c /home/wastack/sources/taskwarrior/src/columns/ColProject.cpp",
+  "file": "/home/wastack/sources/taskwarrior/src/columns/ColProject.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/src/columns",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/columns.dir/ColRecur.cpp.o -c /home/wastack/sources/taskwarrior/src/columns/ColRecur.cpp",
+  "file": "/home/wastack/sources/taskwarrior/src/columns/ColRecur.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/src/columns",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/columns.dir/ColRType.cpp.o -c /home/wastack/sources/taskwarrior/src/columns/ColRType.cpp",
+  "file": "/home/wastack/sources/taskwarrior/src/columns/ColRType.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/src/columns",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/columns.dir/ColScheduled.cpp.o -c /home/wastack/sources/taskwarrior/src/columns/ColScheduled.cpp",
+  "file": "/home/wastack/sources/taskwarrior/src/columns/ColScheduled.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/src/columns",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/columns.dir/ColStart.cpp.o -c /home/wastack/sources/taskwarrior/src/columns/ColStart.cpp",
+  "file": "/home/wastack/sources/taskwarrior/src/columns/ColStart.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/src/columns",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/columns.dir/ColStatus.cpp.o -c /home/wastack/sources/taskwarrior/src/columns/ColStatus.cpp",
+  "file": "/home/wastack/sources/taskwarrior/src/columns/ColStatus.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/src/columns",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/columns.dir/ColTags.cpp.o -c /home/wastack/sources/taskwarrior/src/columns/ColTags.cpp",
+  "file": "/home/wastack/sources/taskwarrior/src/columns/ColTags.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/src/columns",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/columns.dir/ColTemplate.cpp.o -c /home/wastack/sources/taskwarrior/src/columns/ColTemplate.cpp",
+  "file": "/home/wastack/sources/taskwarrior/src/columns/ColTemplate.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/src/columns",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/columns.dir/ColTypeDate.cpp.o -c /home/wastack/sources/taskwarrior/src/columns/ColTypeDate.cpp",
+  "file": "/home/wastack/sources/taskwarrior/src/columns/ColTypeDate.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/src/columns",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/columns.dir/ColTypeDuration.cpp.o -c /home/wastack/sources/taskwarrior/src/columns/ColTypeDuration.cpp",
+  "file": "/home/wastack/sources/taskwarrior/src/columns/ColTypeDuration.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/src/columns",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/columns.dir/ColTypeNumeric.cpp.o -c /home/wastack/sources/taskwarrior/src/columns/ColTypeNumeric.cpp",
+  "file": "/home/wastack/sources/taskwarrior/src/columns/ColTypeNumeric.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/src/columns",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/columns.dir/ColTypeString.cpp.o -c /home/wastack/sources/taskwarrior/src/columns/ColTypeString.cpp",
+  "file": "/home/wastack/sources/taskwarrior/src/columns/ColTypeString.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/src/columns",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/columns.dir/ColUntil.cpp.o -c /home/wastack/sources/taskwarrior/src/columns/ColUntil.cpp",
+  "file": "/home/wastack/sources/taskwarrior/src/columns/ColUntil.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/src/columns",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/columns.dir/ColUrgency.cpp.o -c /home/wastack/sources/taskwarrior/src/columns/ColUrgency.cpp",
+  "file": "/home/wastack/sources/taskwarrior/src/columns/ColUrgency.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/src/columns",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/columns.dir/ColUDA.cpp.o -c /home/wastack/sources/taskwarrior/src/columns/ColUDA.cpp",
+  "file": "/home/wastack/sources/taskwarrior/src/columns/ColUDA.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/src/columns",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/columns.dir/ColUUID.cpp.o -c /home/wastack/sources/taskwarrior/src/columns/ColUUID.cpp",
+  "file": "/home/wastack/sources/taskwarrior/src/columns/ColUUID.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/src/columns",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/columns.dir/ColWait.cpp.o -c /home/wastack/sources/taskwarrior/src/columns/ColWait.cpp",
+  "file": "/home/wastack/sources/taskwarrior/src/columns/ColWait.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/test",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src -I/home/wastack/sources/taskwarrior/test  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/view.t.dir/view.t.cpp.o -c /home/wastack/sources/taskwarrior/test/view.t.cpp",
+  "file": "/home/wastack/sources/taskwarrior/test/view.t.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/test",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src -I/home/wastack/sources/taskwarrior/test  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/view.t.dir/test.cpp.o -c /home/wastack/sources/taskwarrior/test/test.cpp",
+  "file": "/home/wastack/sources/taskwarrior/test/test.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/test",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src -I/home/wastack/sources/taskwarrior/test  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/variant_xor.t.dir/variant_xor.t.cpp.o -c /home/wastack/sources/taskwarrior/test/variant_xor.t.cpp",
+  "file": "/home/wastack/sources/taskwarrior/test/variant_xor.t.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/test",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src -I/home/wastack/sources/taskwarrior/test  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/variant_xor.t.dir/test.cpp.o -c /home/wastack/sources/taskwarrior/test/test.cpp",
+  "file": "/home/wastack/sources/taskwarrior/test/test.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/test",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src -I/home/wastack/sources/taskwarrior/test  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/variant_or.t.dir/variant_or.t.cpp.o -c /home/wastack/sources/taskwarrior/test/variant_or.t.cpp",
+  "file": "/home/wastack/sources/taskwarrior/test/variant_or.t.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/test",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src -I/home/wastack/sources/taskwarrior/test  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/variant_or.t.dir/test.cpp.o -c /home/wastack/sources/taskwarrior/test/test.cpp",
+  "file": "/home/wastack/sources/taskwarrior/test/test.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/test",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src -I/home/wastack/sources/taskwarrior/test  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/variant_not.t.dir/variant_not.t.cpp.o -c /home/wastack/sources/taskwarrior/test/variant_not.t.cpp",
+  "file": "/home/wastack/sources/taskwarrior/test/variant_not.t.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/test",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src -I/home/wastack/sources/taskwarrior/test  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/variant_not.t.dir/test.cpp.o -c /home/wastack/sources/taskwarrior/test/test.cpp",
+  "file": "/home/wastack/sources/taskwarrior/test/test.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/test",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src -I/home/wastack/sources/taskwarrior/test  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/variant_nomatch.t.dir/variant_nomatch.t.cpp.o -c /home/wastack/sources/taskwarrior/test/variant_nomatch.t.cpp",
+  "file": "/home/wastack/sources/taskwarrior/test/variant_nomatch.t.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/test",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src -I/home/wastack/sources/taskwarrior/test  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/variant_nomatch.t.dir/test.cpp.o -c /home/wastack/sources/taskwarrior/test/test.cpp",
+  "file": "/home/wastack/sources/taskwarrior/test/test.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/test",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src -I/home/wastack/sources/taskwarrior/test  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/variant_partial.t.dir/variant_partial.t.cpp.o -c /home/wastack/sources/taskwarrior/test/variant_partial.t.cpp",
+  "file": "/home/wastack/sources/taskwarrior/test/variant_partial.t.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/test",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src -I/home/wastack/sources/taskwarrior/test  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/variant_partial.t.dir/test.cpp.o -c /home/wastack/sources/taskwarrior/test/test.cpp",
+  "file": "/home/wastack/sources/taskwarrior/test/test.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/test",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src -I/home/wastack/sources/taskwarrior/test  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/variant_multiply.t.dir/variant_multiply.t.cpp.o -c /home/wastack/sources/taskwarrior/test/variant_multiply.t.cpp",
+  "file": "/home/wastack/sources/taskwarrior/test/variant_multiply.t.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/test",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src -I/home/wastack/sources/taskwarrior/test  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/variant_multiply.t.dir/test.cpp.o -c /home/wastack/sources/taskwarrior/test/test.cpp",
+  "file": "/home/wastack/sources/taskwarrior/test/test.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/test",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src -I/home/wastack/sources/taskwarrior/test  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/t.t.dir/t.t.cpp.o -c /home/wastack/sources/taskwarrior/test/t.t.cpp",
+  "file": "/home/wastack/sources/taskwarrior/test/t.t.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/test",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src -I/home/wastack/sources/taskwarrior/test  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/t.t.dir/test.cpp.o -c /home/wastack/sources/taskwarrior/test/test.cpp",
+  "file": "/home/wastack/sources/taskwarrior/test/test.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/test",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src -I/home/wastack/sources/taskwarrior/test  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/variant_lt.t.dir/variant_lt.t.cpp.o -c /home/wastack/sources/taskwarrior/test/variant_lt.t.cpp",
+  "file": "/home/wastack/sources/taskwarrior/test/variant_lt.t.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/test",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src -I/home/wastack/sources/taskwarrior/test  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/variant_lt.t.dir/test.cpp.o -c /home/wastack/sources/taskwarrior/test/test.cpp",
+  "file": "/home/wastack/sources/taskwarrior/test/test.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/test",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src -I/home/wastack/sources/taskwarrior/test  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/dom.t.dir/dom.t.cpp.o -c /home/wastack/sources/taskwarrior/test/dom.t.cpp",
+  "file": "/home/wastack/sources/taskwarrior/test/dom.t.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/test",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src -I/home/wastack/sources/taskwarrior/test  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/dom.t.dir/test.cpp.o -c /home/wastack/sources/taskwarrior/test/test.cpp",
+  "file": "/home/wastack/sources/taskwarrior/test/test.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/test",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src -I/home/wastack/sources/taskwarrior/test  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/variant_modulo.t.dir/variant_modulo.t.cpp.o -c /home/wastack/sources/taskwarrior/test/variant_modulo.t.cpp",
+  "file": "/home/wastack/sources/taskwarrior/test/variant_modulo.t.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/test",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src -I/home/wastack/sources/taskwarrior/test  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/variant_modulo.t.dir/test.cpp.o -c /home/wastack/sources/taskwarrior/test/test.cpp",
+  "file": "/home/wastack/sources/taskwarrior/test/test.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/test",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src -I/home/wastack/sources/taskwarrior/test  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/variant_add.t.dir/variant_add.t.cpp.o -c /home/wastack/sources/taskwarrior/test/variant_add.t.cpp",
+  "file": "/home/wastack/sources/taskwarrior/test/variant_add.t.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/test",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src -I/home/wastack/sources/taskwarrior/test  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/variant_add.t.dir/test.cpp.o -c /home/wastack/sources/taskwarrior/test/test.cpp",
+  "file": "/home/wastack/sources/taskwarrior/test/test.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/test",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src -I/home/wastack/sources/taskwarrior/test  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/tdb2.t.dir/tdb2.t.cpp.o -c /home/wastack/sources/taskwarrior/test/tdb2.t.cpp",
+  "file": "/home/wastack/sources/taskwarrior/test/tdb2.t.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/test",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src -I/home/wastack/sources/taskwarrior/test  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/tdb2.t.dir/test.cpp.o -c /home/wastack/sources/taskwarrior/test/test.cpp",
+  "file": "/home/wastack/sources/taskwarrior/test/test.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/test",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src -I/home/wastack/sources/taskwarrior/test  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/variant_equal.t.dir/variant_equal.t.cpp.o -c /home/wastack/sources/taskwarrior/test/variant_equal.t.cpp",
+  "file": "/home/wastack/sources/taskwarrior/test/variant_equal.t.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/test",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src -I/home/wastack/sources/taskwarrior/test  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/variant_equal.t.dir/test.cpp.o -c /home/wastack/sources/taskwarrior/test/test.cpp",
+  "file": "/home/wastack/sources/taskwarrior/test/test.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/test",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src -I/home/wastack/sources/taskwarrior/test  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/col.t.dir/col.t.cpp.o -c /home/wastack/sources/taskwarrior/test/col.t.cpp",
+  "file": "/home/wastack/sources/taskwarrior/test/col.t.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/test",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src -I/home/wastack/sources/taskwarrior/test  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/col.t.dir/test.cpp.o -c /home/wastack/sources/taskwarrior/test/test.cpp",
+  "file": "/home/wastack/sources/taskwarrior/test/test.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/test",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src -I/home/wastack/sources/taskwarrior/test  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/eval.t.dir/eval.t.cpp.o -c /home/wastack/sources/taskwarrior/test/eval.t.cpp",
+  "file": "/home/wastack/sources/taskwarrior/test/eval.t.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/test",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src -I/home/wastack/sources/taskwarrior/test  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/eval.t.dir/test.cpp.o -c /home/wastack/sources/taskwarrior/test/test.cpp",
+  "file": "/home/wastack/sources/taskwarrior/test/test.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/test",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src -I/home/wastack/sources/taskwarrior/test  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/variant_cast.t.dir/variant_cast.t.cpp.o -c /home/wastack/sources/taskwarrior/test/variant_cast.t.cpp",
+  "file": "/home/wastack/sources/taskwarrior/test/variant_cast.t.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/test",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src -I/home/wastack/sources/taskwarrior/test  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/variant_cast.t.dir/test.cpp.o -c /home/wastack/sources/taskwarrior/test/test.cpp",
+  "file": "/home/wastack/sources/taskwarrior/test/test.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/test",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src -I/home/wastack/sources/taskwarrior/test  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/lexer.t.dir/lexer.t.cpp.o -c /home/wastack/sources/taskwarrior/test/lexer.t.cpp",
+  "file": "/home/wastack/sources/taskwarrior/test/lexer.t.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/test",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src -I/home/wastack/sources/taskwarrior/test  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/lexer.t.dir/test.cpp.o -c /home/wastack/sources/taskwarrior/test/test.cpp",
+  "file": "/home/wastack/sources/taskwarrior/test/test.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/test",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src -I/home/wastack/sources/taskwarrior/test  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/variant_match.t.dir/variant_match.t.cpp.o -c /home/wastack/sources/taskwarrior/test/variant_match.t.cpp",
+  "file": "/home/wastack/sources/taskwarrior/test/variant_match.t.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/test",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src -I/home/wastack/sources/taskwarrior/test  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/variant_match.t.dir/test.cpp.o -c /home/wastack/sources/taskwarrior/test/test.cpp",
+  "file": "/home/wastack/sources/taskwarrior/test/test.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/test",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src -I/home/wastack/sources/taskwarrior/test  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/variant_subtract.t.dir/variant_subtract.t.cpp.o -c /home/wastack/sources/taskwarrior/test/variant_subtract.t.cpp",
+  "file": "/home/wastack/sources/taskwarrior/test/variant_subtract.t.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/test",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src -I/home/wastack/sources/taskwarrior/test  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/variant_subtract.t.dir/test.cpp.o -c /home/wastack/sources/taskwarrior/test/test.cpp",
+  "file": "/home/wastack/sources/taskwarrior/test/test.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/test",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src -I/home/wastack/sources/taskwarrior/test  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/variant_divide.t.dir/variant_divide.t.cpp.o -c /home/wastack/sources/taskwarrior/test/variant_divide.t.cpp",
+  "file": "/home/wastack/sources/taskwarrior/test/variant_divide.t.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/test",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src -I/home/wastack/sources/taskwarrior/test  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/variant_divide.t.dir/test.cpp.o -c /home/wastack/sources/taskwarrior/test/test.cpp",
+  "file": "/home/wastack/sources/taskwarrior/test/test.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/test",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src -I/home/wastack/sources/taskwarrior/test  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/util.t.dir/util.t.cpp.o -c /home/wastack/sources/taskwarrior/test/util.t.cpp",
+  "file": "/home/wastack/sources/taskwarrior/test/util.t.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/test",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src -I/home/wastack/sources/taskwarrior/test  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/util.t.dir/test.cpp.o -c /home/wastack/sources/taskwarrior/test/test.cpp",
+  "file": "/home/wastack/sources/taskwarrior/test/test.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/test",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src -I/home/wastack/sources/taskwarrior/test  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/variant_gt.t.dir/variant_gt.t.cpp.o -c /home/wastack/sources/taskwarrior/test/variant_gt.t.cpp",
+  "file": "/home/wastack/sources/taskwarrior/test/variant_gt.t.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/test",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src -I/home/wastack/sources/taskwarrior/test  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/variant_gt.t.dir/test.cpp.o -c /home/wastack/sources/taskwarrior/test/test.cpp",
+  "file": "/home/wastack/sources/taskwarrior/test/test.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/test",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src -I/home/wastack/sources/taskwarrior/test  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/variant_and.t.dir/variant_and.t.cpp.o -c /home/wastack/sources/taskwarrior/test/variant_and.t.cpp",
+  "file": "/home/wastack/sources/taskwarrior/test/variant_and.t.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/test",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src -I/home/wastack/sources/taskwarrior/test  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/variant_and.t.dir/test.cpp.o -c /home/wastack/sources/taskwarrior/test/test.cpp",
+  "file": "/home/wastack/sources/taskwarrior/test/test.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/test",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src -I/home/wastack/sources/taskwarrior/test  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/variant_gte.t.dir/variant_gte.t.cpp.o -c /home/wastack/sources/taskwarrior/test/variant_gte.t.cpp",
+  "file": "/home/wastack/sources/taskwarrior/test/variant_gte.t.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/test",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src -I/home/wastack/sources/taskwarrior/test  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/variant_gte.t.dir/test.cpp.o -c /home/wastack/sources/taskwarrior/test/test.cpp",
+  "file": "/home/wastack/sources/taskwarrior/test/test.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/test",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src -I/home/wastack/sources/taskwarrior/test  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/variant_inequal.t.dir/variant_inequal.t.cpp.o -c /home/wastack/sources/taskwarrior/test/variant_inequal.t.cpp",
+  "file": "/home/wastack/sources/taskwarrior/test/variant_inequal.t.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/test",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src -I/home/wastack/sources/taskwarrior/test  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/variant_inequal.t.dir/test.cpp.o -c /home/wastack/sources/taskwarrior/test/test.cpp",
+  "file": "/home/wastack/sources/taskwarrior/test/test.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/test",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src -I/home/wastack/sources/taskwarrior/test  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/variant_lte.t.dir/variant_lte.t.cpp.o -c /home/wastack/sources/taskwarrior/test/variant_lte.t.cpp",
+  "file": "/home/wastack/sources/taskwarrior/test/variant_lte.t.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/test",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src -I/home/wastack/sources/taskwarrior/test  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/variant_lte.t.dir/test.cpp.o -c /home/wastack/sources/taskwarrior/test/test.cpp",
+  "file": "/home/wastack/sources/taskwarrior/test/test.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/test",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src -I/home/wastack/sources/taskwarrior/test  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/variant_exp.t.dir/variant_exp.t.cpp.o -c /home/wastack/sources/taskwarrior/test/variant_exp.t.cpp",
+  "file": "/home/wastack/sources/taskwarrior/test/variant_exp.t.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/test",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src -I/home/wastack/sources/taskwarrior/test  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/variant_exp.t.dir/test.cpp.o -c /home/wastack/sources/taskwarrior/test/test.cpp",
+  "file": "/home/wastack/sources/taskwarrior/test/test.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/test",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src -I/home/wastack/sources/taskwarrior/test  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/variant_math.t.dir/variant_math.t.cpp.o -c /home/wastack/sources/taskwarrior/test/variant_math.t.cpp",
+  "file": "/home/wastack/sources/taskwarrior/test/variant_math.t.cpp"
+},
+{
+  "directory": "/home/wastack/sources/taskwarrior/test",
+  "command": "/usr/bin/c++   -I/home/wastack/sources/taskwarrior -I/home/wastack/sources/taskwarrior/src -I/home/wastack/sources/taskwarrior/src/commands -I/home/wastack/sources/taskwarrior/src/columns -I/home/wastack/sources/taskwarrior/src/libshared/src -I/home/wastack/sources/taskwarrior/test  -Wall -Wextra -Wsign-compare -Wreturn-type -std=c++14    -o CMakeFiles/variant_math.t.dir/test.cpp.o -c /home/wastack/sources/taskwarrior/test/test.cpp",
+  "file": "/home/wastack/sources/taskwarrior/test/test.cpp"
+}
+]
